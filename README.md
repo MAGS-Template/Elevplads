@@ -10,3 +10,5 @@ Der er 2 hovedmapper som I skal bruge:<br>
   Her skal der være en standart skabelon af jeres ansøgning og CV - det er altså dem i skal redigere hver gang i søger til en specifik virksomhed<br>
 ### AnsøgningTilVirksomhed<br>
 Her skal I have jeres ansøgning til virksomheden samt jeres CV. Derudover skal i også have et billede af virksomhedensopslag. Det er også meget for jeres egen skyld, så når i bliver kaldt til samtale er det nemt for jer at finde ansøgningen og opslaget fra virksomheden. I skal opdele det som eksemplet, altså hvor hver ansøgning til hvert opslag har sin egen undermappe under AnsøgningTilVirksomhed!
+### Format
+I må gerne bruge det som et centrallagersted for jeres ansøgninger, men det eneste krav vi har er at det skal være en PDF fil fra både ansøgning og CV i hver mappe!
